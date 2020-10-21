@@ -1,0 +1,24 @@
+[
+  {
+    "number": "1",
+    "compactAvailable": 1,
+    "compactCapacity": 3,
+    "largeAvailable": 2,
+    "largeCapacity": 4,
+    "handicappedAvailable": 1,
+    "handicappedCapacity": 2,
+    "motorcycleAvailable": 2,
+    "motorcycleCapacity": 12
+  }, 
+  {
+    "number": "2",
+    "compactAvailable": 3,
+    "compactCapacity": 13,
+    "largeAvailable": 4,
+    "largeCapacity": 12,
+    "handicappedAvailable": 2,
+    "handicappedCapacity": 12,
+    "motorcycleAvailable": 20,
+    "motorcycleCapacity": 21
+  }
+]
