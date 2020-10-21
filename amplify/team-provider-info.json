@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-parkinggarage-dev-14501-authRole",
+            "UnauthRoleArn": "arn:aws:iam::211832292416:role/amplify-parkinggarage-dev-14501-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::211832292416:role/amplify-parkinggarage-dev-14501-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-parkinggarage-dev-14501-deployment",
+            "UnauthRoleName": "amplify-parkinggarage-dev-14501-unauthRole",
+            "StackName": "amplify-parkinggarage-dev-14501",
+            "StackId": "arn:aws:cloudformation:eu-central-1:211832292416:stack/amplify-parkinggarage-dev-14501/473103b0-132e-11eb-af03-0abaa2279058",
+            "AmplifyAppId": "d2j3g4cb8jzp6b"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2j3g4cb8jzp6b",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
