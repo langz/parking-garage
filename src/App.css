@@ -11,9 +11,10 @@
     --color-mint-green-50
   ); /* should import color from dnb-ui-lib */
   padding: 20px;
-  flex-direction: row;
+  flex-direction: column;
   display: flex;
   justify-content: center;
+  margin-bottom:10px;
 }
 
 .right-half {
@@ -43,4 +44,15 @@
 
 .section {
   margin-top: 4rem;
+  overflow: auto;
+}
+
+@media screen and (max-width: 800px) {
+  .box-wrapper {
+      flex-direction: column;    
+      width: 100%;
+  }
+  .box {
+    width: 100%;
+}
 }
